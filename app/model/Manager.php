@@ -10,14 +10,13 @@
 	* Objet PDO de la base de donnée à laquelle on se connecte.
 	* 
 	*/
-
 	protected function connectDatabase() {
 		$db = new PDO(
 			'mysql:host=localhost;dbname=lego_webstore;charset=utf8',
 			'phpmyadmin',
 			'patatoes62'
 		);
-		return $db;
+		return $db; // PDO type
 	}
 
   }

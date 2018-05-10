@@ -2,7 +2,7 @@
 	<a class="navbar-brand" href="#"><img src="public/img/logo_lego.jpg" width="30" height="30">&nbsp Webstore</a>
 	<ul class="navbar-nav mr-auto">
 		<li class="nav-item">
-			<a href="?page=produit" class="nav-link">Produits</a>
+			<a href="?page=produits" class="nav-link">Produits</a>
 		</li>
 		<li class="nav-item">
 			<a href="?page=panier" class="nav-link">Panier&nbsp<span class="badge badge-secondary">2</span></a>
